@@ -1,1 +1,1 @@
-# modern-java
+# kevin 님 modern-java 연습 github
